@@ -1,0 +1,12 @@
+cd .. -> To get back to the previous directory. 
+mkdir -> To create a new directory. 
+pwd -> outputs the name of the current working directory. 
+ls -> lists all files and directories in the working directory. 
+cd -> Switches you into the directory you specify. 
+mkdir -> creates a new directory in the working directory. 
+Touch -> creates a new file inside the working directory. 
+cat
+cp <Source_file> <Destination_path> 
+cp * <destination_path> 
+mv <Source_file> <Destination_path> 
+rm -rf <file\folder_name> 
